@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Dec 12 17:15:33 2024
+# Process ID: 14976
+# Current directory: C:/Users/zh08968/Downloads/agh (4)/agh
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12872 C:\Users\zh08968\Downloads\agh (4)\agh\agh.xpr
+# Log file: C:/Users/zh08968/Downloads/agh (4)/agh/vivado.log
+# Journal file: C:/Users/zh08968/Downloads/agh (4)/agh\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/zh08968/Downloads/agh (4)/agh/agh.xpr}
+INFO: [Project 1-313] Project file moved from 'E:/sem3/DLD/finalthing/agh/agh' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 10
+[Thu Dec 12 17:16:02 2024] Launched synth_1...
+Run output will be captured here: C:/Users/zh08968/Downloads/agh (4)/agh/agh.runs/synth_1/runme.log
+[Thu Dec 12 17:16:02 2024] Launched impl_1...
+Run output will be captured here: C:/Users/zh08968/Downloads/agh (4)/agh/agh.runs/impl_1/runme.log
+reset_run impl_1
+launch_runs impl_1 -jobs 10
+[Thu Dec 12 17:17:44 2024] Launched impl_1...
+Run output will be captured here: C:/Users/zh08968/Downloads/agh (4)/agh/agh.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Dec 12 17:21:27 2024...

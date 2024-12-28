@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Dec 12 17:25:12 2024
+# Process ID: 13148
+# Current directory: C:/Users/zh08968/Downloads/agh (4)/agh
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8388 C:\Users\zh08968\Downloads\agh (4)\agh\agh.xpr
+# Log file: C:/Users/zh08968/Downloads/agh (4)/agh/vivado.log
+# Journal file: C:/Users/zh08968/Downloads/agh (4)/agh\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/zh08968/Downloads/agh (4)/agh/agh.xpr}
